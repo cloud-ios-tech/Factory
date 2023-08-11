@@ -281,6 +281,11 @@ pod "Factory"
 ```
 Or download the source files and add the Factory folder to your project.
 
+Or use Carthage
+```
+github "cloud-ios-tech/Factory" "{commit number}"
+```
+
 Note that the current version of Factory (2.1) require Swift 5.1 minimum and that the minimum version of iOS currently supported with this release is iOS 11.
 
 ## Factory 2.0 Migration
